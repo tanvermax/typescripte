@@ -1,4 +1,7 @@
-// learning function
+{
+
+
+    // learning function
 // normal function
 // arrow function
 
@@ -27,3 +30,6 @@ const poorUser ={
 const arr : number []= [1,2,4]
 
 const newArray: number[] = arr.map((ele : number) : number => ele *ele)
+
+
+}

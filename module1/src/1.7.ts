@@ -33,6 +33,8 @@
 
 
     // learn rest oparartor
+
+    
     const greetFriends = (...friend: string[]) => {
         // console.log(`Hi $${friends1} ${friends2} ${friend3}`);
         friend.forEach((friend: string) => console.log(friend)
