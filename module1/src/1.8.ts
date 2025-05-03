@@ -16,4 +16,14 @@
 
     const {contact, name: {middleName} } = user
 
+    //array distururing
+
+
+    const myFriends = ["shujin","joye", "devid", " rachel","monica"]
+    const [, , bestfriend, ... rest] = myFriends;
+
+
+
+
+
 }
