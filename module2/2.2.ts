@@ -49,10 +49,14 @@
     const roolNumber: Roll2 = [1, 2, 3]
 
 
+
     type Add1 = (num1:  number, num2: number)=>number
+
     interface Add2 {
         (num1: number, num2: number): number
     }
+
+    const add : Add1 = (num, num2)=> num+num2
 
 
 
